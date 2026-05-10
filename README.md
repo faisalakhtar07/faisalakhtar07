@@ -16,7 +16,7 @@
 [![](https://komarev.com/ghpvc/?username=faisalakhtar07&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 Support my journey
-  [![Google Pay ](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](akhtar.faisal707-1@okicici) 
+  [![Google Pay](https://img.shields.io/badge/googlepayl-00457C?style=for-the-badge&logo=paypal&logoColor=white)](akhtar.faisal707-1@okicici) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
 <!--
